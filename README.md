@@ -16,6 +16,13 @@ So I rebuild them from what is left. These are private, personal preservation pr
   - The game logic is transcribed from the original binary, through Ghidra decompilation and
     ARM assembly, instead of being remade by eye.
   - It runs all 80 stages, 110 units and the full interface.
+- **Heavy MACH: Assault** (iOS, 2011): the side-scrolling sequel, with its own Unity port for
+  Android.
+  - It uses the same in-house engine as Defense, so the two ports share the engine code — but
+    every game class was transcribed from the Assault binary, because the same class name does
+    not mean the same logic.
+  - It runs 43 maps, 720 mech definitions, 8 missions and the Survival mode. The mech is
+    driven by tilting the phone, from the same accelerometer formula the original uses.
 - **Retry** (Rovio, 2014): a Unity 6 rebuild that runs natively on 64-bit-only Android
   phones, where the original APK physically can't run.
   - I rewrote the shaders from the 2014 ShaderLab dump.
