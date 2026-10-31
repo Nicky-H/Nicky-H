@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there!
 
 *English · [Português](README.pt-BR.md)*
 
@@ -7,7 +7,7 @@ I'm **Nicky**, a 23-year-old **English teacher** and **Computer Science student*
 I teach by day and build things the rest of the time. Mostly that means tools I actually use,
 and old games I didn't want to see disappear.
 
-#### 🕹️ Game preservation
+#### Game preservation
 
 Some of my favourite games were pulled from the stores and stopped running on modern phones.
 So I rebuild them from what is left. These are private, personal preservation projects.
@@ -28,7 +28,7 @@ So I rebuild them from what is left. These are private, personal preservation pr
   - I rewrote the shaders from the 2014 ShaderLab dump.
   - I recovered 177 lost sprites from the original APK.
 
-#### 🛠️ Tools and apps
+#### Tools and apps
 
 - **Net Doc:** continuous network monitoring and troubleshooting for Windows. It tells you
   *where* the network broke and *why*, in plain language. Python, PyQt6, SQLite.
@@ -48,7 +48,7 @@ Most of my repositories are private. A few early study projects are public, like
 [MCDU](https://github.com/Nicky-H/MCDU) (object-oriented Python) and
 [Pacetech](https://github.com/Nicky-H/Pacetech) (my first algorithms course).
 
-#### 🧰 What I work with
+#### What I work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -67,7 +67,7 @@ Most of my repositories are private. A few early study projects are public, like
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-DA291C?style=flat-square&logo=ghidra&logoColor=white)
 
-#### 💬 Ask me about
+#### Ask me about
 
 English, teaching, game preservation and reverse engineering, or why a 2011 game stores its
 data tables encrypted with `srandom(730103)`.

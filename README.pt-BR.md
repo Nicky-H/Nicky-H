@@ -1,4 +1,4 @@
-### Olá! 👋
+### Olá!
 
 *[English](README.md) · Português*
 
@@ -8,7 +8,7 @@ Computação**, do Brasil.
 Dou aula de dia e construo coisas no resto do tempo. Quase sempre são ferramentas que eu uso
 de verdade, e jogos antigos que eu não queria ver sumir.
 
-#### 🕹️ Preservação de jogos
+#### Preservação de jogos
 
 Alguns dos meus jogos favoritos saíram das lojas e pararam de rodar nos celulares atuais.
 Então eu os reconstruo a partir do que sobrou. São projetos pessoais e privados de preservação.
@@ -29,7 +29,7 @@ Então eu os reconstruo a partir do que sobrou. São projetos pessoais e privado
   - Reescrevi os shaders a partir do dump em ShaderLab de 2014.
   - Recuperei 177 sprites perdidos do APK original.
 
-#### 🛠️ Ferramentas e apps
+#### Ferramentas e apps
 
 - **Net Doc:** monitoramento contínuo e diagnóstico de rede para Windows. Diz *onde* a rede
   quebrou e *por quê*, em português claro. Python, PyQt6, SQLite.
@@ -49,7 +49,7 @@ A maior parte dos meus repositórios é privada. Alguns projetos de estudo do co
 públicos, como o [MCDU](https://github.com/Nicky-H/MCDU) (Python orientado a objetos) e o
 [Pacetech](https://github.com/Nicky-H/Pacetech) (meu primeiro curso de algoritmos).
 
-#### 🧰 Com o que eu trabalho
+#### Com o que eu trabalho
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -68,7 +68,7 @@ públicos, como o [MCDU](https://github.com/Nicky-H/MCDU) (Python orientado a ob
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-DA291C?style=flat-square&logo=ghidra&logoColor=white)
 
-#### 💬 Pode me perguntar sobre
+#### Pode me perguntar sobre
 
 Inglês, ensino, preservação de jogos e engenharia reversa, ou por que um jogo de 2011 guarda
 as tabelas de dados cifradas com `srandom(730103)`.
