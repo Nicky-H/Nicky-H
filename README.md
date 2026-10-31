@@ -1,54 +1,38 @@
-### Hi there!
+# Hi, I'm Nicky
 
-*English · [Português](README.pt-BR.md)*
+English · [Português](https://github.com/Nicky-H/Nicky-H/blob/main/README.pt-BR.md)
 
-I'm **Nicky**, a 23-year-old **English teacher** and **Computer Science student** from Brazil.
+Programmer and Computer Science student from Brazil, 23. I work overnight, and the hours around it go into software for myself: tools I actually use, and ports of old games I didn't want to see disappear.
 
-I teach by day and build things the rest of the time. Mostly that means tools I actually use,
-and old games I didn't want to see disappear.
+## Game preservation
 
-#### Game preservation
+Some of my favourite mobile games were pulled from the stores and no longer run on modern phones, so I rebuild them from what's left. The rule I follow: transcribe the original logic, don't remake it by eye. These are private, personal preservation projects.
 
-Some of my favourite games were pulled from the stores and stopped running on modern phones.
-So I rebuild them from what is left. These are private, personal preservation projects.
+**Heavy MACH: Defense** (iOS, 2011) · Unity port for Android and Windows
+- Game logic transcribed from the original binary through Ghidra decompilation and ARM assembly.
+- All 80 stages, 110 units and the full interface.
 
-- **Heavy MACH: Defense** (iOS, 2011): a faithful Unity port for Android and Windows.
-  - The game logic is transcribed from the original binary, through Ghidra decompilation and
-    ARM assembly, instead of being remade by eye.
-  - It runs all 80 stages, 110 units and the full interface.
-- **Heavy MACH: Assault** (iOS, 2011): the side-scrolling sequel, with its own Unity port for
-  Android.
-  - It uses the same in-house engine as Defense, so the two ports share the engine code — but
-    every game class was transcribed from the Assault binary, because the same class name does
-    not mean the same logic.
-  - It runs 43 maps, 720 mech definitions, 8 missions and the Survival mode. The mech is
-    driven by tilting the phone, from the same accelerometer formula the original uses.
-- **Retry** (Rovio, 2014): a Unity 6 rebuild that runs natively on 64-bit-only Android
-  phones, where the original APK physically can't run.
-  - I rewrote the shaders from the 2014 ShaderLab dump.
-  - I recovered 177 lost sprites from the original APK.
+**Heavy MACH: Assault** (iOS, 2011) · Unity port for Android
+- Built on the same in-house engine as Defense, so the two ports share engine code. Every game class, though, was transcribed from the Assault binary: the same class name doesn't mean the same logic.
+- 43 maps, 720 mech definitions, 8 missions and Survival mode. Tilt controls use the exact accelerometer formula from the original.
 
-#### Tools and apps
+**Retry** (Rovio, 2014) · Unity 6 rebuild for 64-bit-only Android phones, where the original APK can't run at all
+- Shaders rewritten from the 2014 ShaderLab dump.
+- 177 lost sprites recovered from the original APK.
 
-- **Net Doc:** continuous network monitoring and troubleshooting for Windows. It tells you
-  *where* the network broke and *why*, in plain language. Python, PyQt6, SQLite.
-- **VEIL:** a local-first chat application built around a written specification. It runs on
-  local LLMs (Ollama or OpenAI-compatible servers), with memory that keeps track of where
-  each fact came from. TypeScript, React, Fastify.
-- **Nexus:** a school-management app for teachers, covering classes, grades and report cards.
-  FastAPI backend and Flutter app.
-- **Typus Desktop:** a Windows client for a calling app, with a custom screen-sharing picker
-  and tray integration. Electron.
-- **Real-estate website:** a property listing site with an admin panel and e-mail
-  notifications. React, Vite, Node.js, Express.
-- **Lightning-Verso Metroidvania:** an early 2D metroidvania prototype. Godot 4 and
-  C++/GDExtension.
+## Tools and apps
 
-Most of my repositories are private. A few early study projects are public, like
-[MCDU](https://github.com/Nicky-H/MCDU) (object-oriented Python) and
-[Pacetech](https://github.com/Nicky-H/Pacetech) (my first algorithms course).
+| Project | What it does | Stack |
+|---|---|---|
+| **Net Doc** | Continuous network monitoring for Windows. Tells you where the network broke and why, in plain language. | Python, PyQt6, SQLite |
+| **VEIL** | Local-first chat app built from a written spec. Runs on local LLMs, with memory that tracks where each fact came from. | TypeScript, React, Fastify |
+| **Nexus** | School management for teachers: classes, grades and report cards. | FastAPI, Flutter |
+| **Typus Desktop** | Windows client for a calling app, with a custom screen-share picker and tray integration. | Electron |
+| **Real-estate site** | Property listings with an admin panel and e-mail notifications. | React, Vite, Node.js, Express |
 
-#### What I work with
+Most of my repositories are private. A few early study projects are public, like [MCDU](https://github.com/Nicky-H/MCDU) (object-oriented Python) and [Pacetech](https://github.com/Nicky-H/Pacetech) (my first algorithms course).
+
+## What I work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -67,7 +51,6 @@ Most of my repositories are private. A few early study projects are public, like
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-DA291C?style=flat-square&logo=ghidra&logoColor=white)
 
-#### Ask me about
+## Ask me about
 
-English, teaching, game preservation and reverse engineering, or why a 2011 game stores its
-data tables encrypted with `srandom(730103)`.
+Reverse engineering, game preservation, desktop tooling, or why a 2011 game stores its data tables encrypted with `srandom(730103)`.
